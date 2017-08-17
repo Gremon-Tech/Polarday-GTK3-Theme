@@ -29,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="618.79865"
+     inkscape:cx="-506.47381"
      inkscape:cy="460.34604"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -38,7 +38,15 @@
      inkscape:window-height="709"
      inkscape:window-x="0"
      inkscape:window-y="31"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="344.71428,323.54763"
+       orientation="0,1"
+       id="guide38"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -47,7 +55,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,44 +65,54 @@
      id="layer1"
      style="display:inline">
     <circle
-       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.21441767"
+       style="fill:#f9f9f9;fill-rule:evenodd;stroke-width:0.21441767"
        id="path4601"
        cx="105.83332"
        cy="149.74037"
        r="100.16369"
-       inkscape:export-filename="/home/kevin/文档/loff.png"
+       inkscape:export-filename="/home/kevin/文档/off.png"
        inkscape:export-xdpi="3.8"
        inkscape:export-ydpi="3.8" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:168.58979797px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff5555;fill-opacity:1;stroke:none;stroke-width:0.25288472;"
-       x="64.463692"
-       y="161.90587"
+       style="font-style:normal;font-weight:normal;font-size:151.43643188px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.22715466;"
+       x="80.573845"
+       y="152.16302"
        id="text4605"
-       transform="scale(0.66601562,1.5014663)"
+       transform="scale(0.63870171,1.5656761)"
        inkscape:export-filename="/home/kevin/文档/path4601.png"
        inkscape:export-xdpi="3.8"
        inkscape:export-ydpi="3.8"><tspan
          sodipodi:role="line"
-         x="64.463692"
-         y="161.90587"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:168.58979797px;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';fill:#ff5555;stroke-width:0.25288472;"
+         x="80.573845"
+         y="152.16302"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:151.43643188px;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC Medium';fill:#ff0000;stroke-width:0.22715466;"
          id="tspan4607">&gt;</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:168.58979797px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff5555;fill-opacity:1;stroke:none;stroke-width:0.25288472;"
-       x="-246.81171"
-       y="161.81459"
+       style="font-style:normal;font-weight:normal;font-size:151.43643188px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.22715466;"
+       x="-250.5769"
+       y="152.08102"
        id="text4605-1"
-       transform="scale(-0.66601562,1.5014663)"
+       transform="scale(-0.63870171,1.5656761)"
        inkscape:export-filename="/home/kevin/文档/path4601.png"
        inkscape:export-xdpi="3.8"
        inkscape:export-ydpi="3.8"><tspan
          sodipodi:role="line"
-         x="-246.81171"
-         y="161.81459"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:168.58979797px;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';fill:#ff5555;stroke-width:0.25288472;"
+         x="-250.5769"
+         y="152.08102"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:151.43643188px;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC Medium';fill:#ff0000;stroke-width:0.22715466;"
          id="tspan4607-9">&gt;</tspan></text>
+    <ellipse
+       style="display:inline;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#dedede;stroke-width:7.19991446;stroke-miterlimit:4.0999999;stroke-dasharray:none;stroke-opacity:1"
+       id="path4601-3"
+       cx="105.90894"
+       cy="149.74054"
+       inkscape:export-filename="/home/kevin/文档/off.png"
+       inkscape:export-xdpi="3.8"
+       inkscape:export-ydpi="3.8"
+       rx="96.155991"
+       ry="96.155998" />
   </g>
   <g
      id="g4595"
